@@ -14,8 +14,7 @@ Program bir videodaki seçili nesneyi OpenCV tracker'ları ile takip ederken ayn
 ## Videos
 ### Trying all trackers on the video
 
-Uploading vid1.mp4…
-
+https://user-images.githubusercontent.com/44752389/190900389-2c12431f-32d7-4e5a-ad9f-3c98ca24fea4.mp4
 
 ### Trying selected tracker on the video
 
