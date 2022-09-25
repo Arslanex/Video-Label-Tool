@@ -10,7 +10,18 @@ Program bir videodaki seçili nesneyi OpenCV tracker'ları ile takip ederken ayn
  - [ ] Takip oranını arttırmak için resim yumuşatılabilir, gürültü azaltılabilir
  - [ ] Göresel arayüz ekelenmeli
  - [ ] Görsel arayüz üzerinden videonun istenilen kısımlarında işelem yapılabilecek
- 
+
+## Kurulum
+
+```git clone https://github.com/Arslanex/System-Check ```
+
+```cd System-Check ```
+
+```pip install -r requirements.txt```
+
+```python main.py```
+
+
 ## Videos
 ### Trying all trackers on the video
 
