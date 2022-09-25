@@ -13,9 +13,9 @@ Program bir videodaki seçili nesneyi OpenCV tracker'ları ile takip ederken ayn
 
 ## Kurulum
 
-```git clone https://github.com/Arslanex/System-Check ```
+```git clone https://github.com/Arslanex/Video-Label-Tool.git ```
 
-```cd System-Check ```
+```cd Video-Label-Tool ```
 
 ```pip install -r requirements.txt```
 
