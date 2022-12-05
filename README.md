@@ -1,9 +1,6 @@
 # Video-Label-Tool
-## Neden böyle bir şey geliştridim ?
-Nesne tanıma ve takibi için hazırlanan modeller ilgili nesnenin bir çok resmi bir araya getirilerek oluştururlur. Yarıştığım İnsansız Su Altı Sistemleri yarışmalaraında
-su altında bulunan nesnelerin tespit edilmesi gerekiyordu. Bunun için görev objelerinin replikalarını yapıp su altında video kaydına alarak eğitim için veri seti 
-materyali topluyorduk. Çekilen videon frame by frame parçalanması ve ardından labellanması işlemlleri hem sıkıcı hem de uzun bir iş olduğu için bu projeyi geliştirdim. 
-Program bir videodaki seçili nesneyi OpenCV tracker'ları ile takip ederken aynı zamanda label atıyor ve kullanıcının tüm yükünü ortadan kaldırıyor. 
+## Why Did I Developed Something Like This ?
+Models prepared for object recognition and tracking are created by bringing together many pictures of the relevant object. In the Unmanned Underwater Systems competitions I competed in, objects under water had to be detected. For this, we were collecting dataset material for training by making replicas of mission objects and recording them underwater. I developed this project because the process of breaking the captured video frame by frame and then labeling it is both tedious and long. While the program tracks the selected object in a video with OpenCV trackers, it also assigns labels and removes all the burden of the user.
 
 ## To-Do
  - [ ] Takip oranının arttırmak için resimler küçültülebilir
@@ -11,7 +8,7 @@ Program bir videodaki seçili nesneyi OpenCV tracker'ları ile takip ederken ayn
  - [ ] Göresel arayüz ekelenmeli
  - [ ] Görsel arayüz üzerinden videonun istenilen kısımlarında işelem yapılabilecek
 
-## Kurulum
+## SetUp
 
 ```git clone https://github.com/Arslanex/Video-Label-Tool.git ```
 
