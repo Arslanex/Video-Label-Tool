@@ -10,13 +10,21 @@ Models prepared for object recognition and tracking are created by bringing toge
 
 ## SetUp
 
-```git clone https://github.com/Arslanex/Video-Label-Tool.git ```
-
-```cd Video-Label-Tool ```
-
-```pip install -r requirements.txt```
-
-```python main.py```
+- Clone the repo
+```
+git clone https://github.com/Arslanex/Video-Label-Tool.git 
+```
+```
+cd Video-Label-Tool 
+```
+- Install requirements
+```
+pip install -r requirements.txt
+```
+- Run main.py file
+```
+python main.py
+```
 
 
 ## Videos
